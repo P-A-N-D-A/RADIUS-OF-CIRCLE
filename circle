@@ -1,0 +1,5 @@
+pi = 3.14
+r = float(input("enter radius:"))
+area = float(pi * r * r)
+print("area of circle is:")
+print(area)
